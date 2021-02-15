@@ -27,4 +27,8 @@
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.2.0"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 545d7bd3c5832466060c8cea8eef9d57a8e75396
